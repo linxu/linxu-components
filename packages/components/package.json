@@ -1,6 +1,6 @@
 {
   "name": "@linxu/linxu-user-components",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "linxu components",
   "main": "index.js",
   "scripts": {
