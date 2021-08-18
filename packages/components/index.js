@@ -1,1 +1,1 @@
-console.log("hello linxu components");
+console.log("hello linxu components2");
