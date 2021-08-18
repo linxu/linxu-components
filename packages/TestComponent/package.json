@@ -1,6 +1,6 @@
 {
   "name": "@linxu/testcomponent",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "linxu testcomponent",
   "main": "index.js",
   "scripts": {
