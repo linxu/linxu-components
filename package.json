@@ -1,5 +1,6 @@
 {
-  "name": "linxu-components",
+  "name": "exome-components",
+  "private": true,
   "devDependencies": {
     "@commitlint/cli": "^13.1.0",
     "@commitlint/config-conventional": "^13.1.0",
@@ -15,8 +16,5 @@
     "test": "lerna run test",
     "lint": "lerna run lint",
     "prepare": "husky install"
-  },
-  "publishConfig": {
-    "access": "public"
   }
 }
