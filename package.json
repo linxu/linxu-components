@@ -11,6 +11,7 @@
     "lerna": "lerna",
     "bootstrap": "lerna bootstrap --use-workspaces",
     "version": "lerna version",
+    "publish": "lerna publish",
     "build": "lerna run build",
     "test": "lerna run test",
     "lint": "lerna run lint",
