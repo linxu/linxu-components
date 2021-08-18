@@ -1,5 +1,5 @@
 {
-  "name": "@linxu/linxu-user-testcomponent",
+  "name": "linxu-user-testcomponent",
   "version": "1.0.11",
   "description": "linxu testcomponent",
   "main": "index.js",
