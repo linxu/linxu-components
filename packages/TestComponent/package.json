@@ -1,0 +1,11 @@
+{
+  "name": "@linxu/testcomponent",
+  "version": "1.0.0",
+  "description": "linxu testcomponent",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "linxu",
+  "license": "ISC"
+}
