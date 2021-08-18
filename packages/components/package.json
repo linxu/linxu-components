@@ -1,6 +1,6 @@
 {
   "name": "@linxu/linxu_components",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "linxu components",
   "main": "index.js",
   "scripts": {
