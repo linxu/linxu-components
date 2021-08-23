@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "types": [
+      "jest"
+    ],
+    "target": "es5",
+    "strict": true,
+    "esModuleInterop": true,
+    "declaration": true,
+    "emitDeclarationOnly": true,
+    "isolatedModules": false,
+    "jsx": "react-jsx",
+    "forceConsistentCasingInFileNames": true
+  },
+}

@@ -2,9 +2,14 @@
   "name": "linxu-components",
   "version": "1.0.12",
   "description": "linxu components",
-  "main": "index.js",
+  "main": "dist/index.js",
+  "module": "dist/index.es.js",
   "scripts": {
-    "test": "jest"
+    "prepublishOnly": "npm build",
+    "test": "jest",
+    "list": "tsc -p tsconfig.json --listFiles",
+    "lint": "eslint .",
+    "build": "rollup -c"
   },
   "author": "linxu",
   "license": "ISC",
