@@ -1,4 +1,4 @@
-export let count = 0;
+export let count = 1;
 export function increment() {
   count += 1;
 }
