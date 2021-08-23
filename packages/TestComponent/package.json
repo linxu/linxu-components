@@ -2,9 +2,13 @@
   "name": "linxu-testcomponent",
   "version": "1.0.13",
   "description": "linxu testcomponent",
-  "main": "index.js",
+  "main": "dist/index.js",
+  "module": "dist/index.es.js",
   "scripts": {
-    "test": "jest"
+    "prepublishOnly": "npm build",
+    "test": "jest",
+    "lint": "eslint .",
+    "build": "rollup -c"
   },
   "author": "linxu",
   "license": "ISC",
