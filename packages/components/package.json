@@ -5,7 +5,7 @@
   "main": "dist/index.js",
   "module": "dist/index.es.js",
   "scripts": {
-    "prepublishOnly": "npm build",
+    "prepublishOnly": "npm run build",
     "test": "jest",
     "list": "tsc -p tsconfig.json --listFiles",
     "lint": "eslint .",
@@ -15,5 +15,6 @@
   "license": "ISC",
   "publishConfig": {
     "access": "public"
-  }
+  },
+  "gitHead": "3139f87798beae02d9d9532c9f6d94b9cd428153"
 }
