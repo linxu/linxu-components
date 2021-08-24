@@ -1,6 +1,6 @@
 {
-  "name": "linxu-components",
-  "version": "0.0.3",
+  "name": "linxu-components2",
+  "version": "0.0.1",
   "description": "linxu components",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
@@ -19,5 +19,6 @@
   "license": "ISC",
   "publishConfig": {
     "access": "public"
-  }
+  },
+  "gitHead": "42f845ca5c00d23d1507a5b89dec610ebd3dddda"
 }

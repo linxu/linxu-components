@@ -1,6 +1,6 @@
 {
-  "name": "linxu-testcomponent",
-  "version": "0.0.3",
+  "name": "linxu-testcomponent2",
+  "version": "0.0.1",
   "description": "linxu testcomponent",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
@@ -17,5 +17,6 @@
   "license": "ISC",
   "publishConfig": {
     "access": "public"
-  }
+  },
+  "gitHead": "42f845ca5c00d23d1507a5b89dec610ebd3dddda"
 }
