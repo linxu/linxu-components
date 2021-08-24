@@ -1,6 +1,6 @@
 {
   "name": "linxu-testcomponent",
-  "version": "1.0.16",
+  "version": "1.0.0",
   "description": "linxu testcomponent",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
