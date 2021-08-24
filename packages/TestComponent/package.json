@@ -4,6 +4,9 @@
   "description": "linxu testcomponent",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
+  "files": [
+    "dist"
+  ],
   "scripts": {
     "prepublishOnly": "npm run build",
     "test": "jest",
