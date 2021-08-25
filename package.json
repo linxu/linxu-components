@@ -81,7 +81,7 @@
   "scripts": {
     "lerna": "lerna",
     "bootstrap": "lerna bootstrap",
-    "version": "lerna version",
+    "version": "lerna version patch",
     "publish": "lerna publish from-git",
     "build": "lerna run build",
     "test": "lerna run test",
