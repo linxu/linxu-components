@@ -1,9 +1,2 @@
-export {
-  Button
-} from "./Button";
-export {
-  Header
-} from "./Header";
-export {
-  Page
-} from "./Page"
+export { Button, ExomeButton, ButtonProps } from "Components/Button/Button";
+export { Text, ExomeText, TextProps } from "Components/Text/Text";

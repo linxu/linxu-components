@@ -1,4 +1,6 @@
 node_modules
 dist
+coverage
+storybook-static
 lerna-debug.log
 package-lock.json
