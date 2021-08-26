@@ -98,10 +98,13 @@
   "overrides": [
     {
       "files": [
+        "**/*.spec.js",
         "**/*.spec.ts",
         "**/*.spec.tsx",
+        "**/*.test.js",
         "**/*.test.ts",
         "**/*.test.tsx",
+        "**/*.stories.js",
         "**/*.stories.ts",
         "**/*.stories.tsx"
       ],

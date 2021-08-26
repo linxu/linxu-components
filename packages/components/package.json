@@ -1,6 +1,6 @@
 {
   "name": "linxu-components",
-  "version": "0.0.2",
+  "version": "0.0.1",
   "description": "linxu components",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
@@ -19,6 +19,10 @@
   "license": "ISC",
   "publishConfig": {
     "access": "public"
+  },
+  "dependencies": {
+    "@material-ui/core": "4.11.4",
+    "@material-ui/icons": "4.11.2"
   },
   "gitHead": "42f845ca5c00d23d1507a5b89dec610ebd3dddda"
 }
