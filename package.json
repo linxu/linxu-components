@@ -7,7 +7,7 @@
   "scripts": {
     "lerna": "lerna",
     "bootstrap": "lerna bootstrap --use-workspaces",
-    "version": "lerna version patch",
+    "patch": "lerna version patch",
     "publish": "lerna publish from-git",
     "build": "lerna run build",
     "test": "lerna run test",
