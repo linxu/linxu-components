@@ -1,6 +1,5 @@
 {
   "name": "linxu-components",
-  "private": true,
   "workspaces": [
     "packages/*"
   ],
