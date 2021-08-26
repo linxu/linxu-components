@@ -4,3 +4,4 @@ coverage
 storybook-static
 lerna-debug.log
 package-lock.json
+yarn.lock

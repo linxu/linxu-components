@@ -14,8 +14,7 @@
     "lint": "lerna run lint",
     "prepare": "husky install",
     "storybook": "start-storybook -p 6006",
-    "build-storybook": "build-storybook",
-    "install": "lerna exec npm install"
+    "build-storybook": "build-storybook"
   },
   "devDependencies": {
     "@babel/core": "7.12.3",

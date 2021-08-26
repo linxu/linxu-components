@@ -2,6 +2,8 @@
   "packages": [
     "packages/*"
   ],
+  "useWorkspaces": true,
+  "npmClient": "yarn",
   "version": "independent",
   "message": "chore: publish"
 }
