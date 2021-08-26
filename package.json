@@ -1,17 +1,18 @@
 {
   "name": "linxu-components",
+  "private": true,
   "version": "1.0.0",
   "workspaces": [
     "packages/*"
   ],
   "scripts": {
     "lerna": "lerna",
-    "bootstrap": "lerna bootstrap --use-workspaces",
-    "patch": "lerna version patch",
-    "publish": "lerna publish from-git",
-    "build": "lerna run build",
-    "test": "lerna run test",
-    "lint": "lerna run lint",
+    "lerna:bootstrap": "lerna bootstrap --use-workspaces",
+    "lerna:patch": "lerna version patch",
+    "lerna:publish": "lerna publish from-git",
+    "lerna:build": "lerna run build",
+    "lerna:test": "lerna run test",
+    "lerna:lint": "lerna run lint",
     "prepare": "husky install",
     "storybook": "start-storybook -p 6006",
     "build-storybook": "build-storybook"
