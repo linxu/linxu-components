@@ -5,7 +5,7 @@ install:
 
 #### Runs Jest integration and Unit tests ####
 test:
-	yarn test
+	yarn lerna:test
 
 ### Local Commands ###
 local:
@@ -17,7 +17,7 @@ build-storybook:
 
 ### Create component library build artifacts ###
 build:
-	yarn build
+	yarn lerna:build
 
 ### Publish to NPM ###
 publish:
