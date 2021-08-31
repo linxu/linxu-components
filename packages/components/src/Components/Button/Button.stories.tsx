@@ -1,8 +1,8 @@
 import React from "react";
 import { Story } from "@storybook/react";
 import { ThemeProvider } from "styled-components";
-import { getTheme } from "theme/getTheme";
-import { Button, ButtonProps, ExomeButton } from "Components/Button/Button";
+import { getTheme } from "../../theme/getTheme";
+import { Button, ButtonProps, ExomeButton } from "./Button";
 
 // noinspection JSUnusedGlobalSymbols
 export default {

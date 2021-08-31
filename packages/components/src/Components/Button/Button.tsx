@@ -3,7 +3,7 @@ import styled, { css, Themer } from "styled-components";
 import MUIButton, {
   ButtonProps as MaterialButtonProps,
 } from "@material-ui/core/Button";
-import { buttonSizes } from "Components/Button/ButtonSizes";
+import { buttonSizes } from "./ButtonSizes";
 import { Colors } from "../../theme/Colors";
 
 export interface ButtonProps extends MaterialButtonProps {

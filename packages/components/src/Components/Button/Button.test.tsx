@@ -1,8 +1,8 @@
 import React from "react";
 import { render } from "@testing-library/react";
 
-import { Minimal } from "Components/Button/Button.stories";
-import { ButtonProps } from "Components/Button/Button";
+import { Minimal } from "./Button.stories";
+import { ButtonProps } from "./Button";
 
 it("renders the badge with color", async () => {
   const tree = render(

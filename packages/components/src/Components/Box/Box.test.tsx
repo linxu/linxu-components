@@ -1,8 +1,8 @@
 import React from "react";
 import { render, screen } from "@testing-library/react";
 
-import { Minimal } from "Components/Box/Box.stories";
-import { BoxProps } from "Components/Box/Box";
+import { Minimal } from "./Box.stories";
+import { BoxProps } from "./Box";
 
 it("renders the badge with color", async () => {
   render(

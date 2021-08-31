@@ -1,6 +1,6 @@
 import React from "react";
 import { render, screen } from "@testing-library/react";
-import { Minimal, Overloaded } from "Components/Text/Text.stories";
+import { Minimal, Overloaded } from "./Text.stories";
 
 it("renders the FlexContainerStory with 2 items", async () => {
   render(<Minimal {...Minimal.args} />);

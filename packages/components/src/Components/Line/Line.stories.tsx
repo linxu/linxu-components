@@ -1,8 +1,8 @@
 import React from "react";
 import { Story } from "@storybook/react";
 import { ThemeProvider } from "styled-components";
-import { getTheme } from "theme/getTheme";
-import { Line, LineProps } from "Components/Line/Line";
+import { getTheme } from "../../theme/getTheme";
+import { Line, LineProps } from "./Line";
 
 export default {
   title: "Components/Line",
