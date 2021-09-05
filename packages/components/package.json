@@ -1,6 +1,6 @@
 {
   "name": "linxu-components",
-  "version": "0.0.17",
+  "version": "0.0.18",
   "description": "linxu components",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
